@@ -1,4 +1,4 @@
-# NetPyNE implementation of the somatosensory thalamocortical circuits model
+# NetPyNE implementation of the somatosensory thalamocortical circuits
 
 ## Description
 This code reproduces the simulations in the following paper:
