@@ -20,7 +20,7 @@ cfg = specs.SimConfig()
 #
 #------------------------------------------------------------------------------
 
-cfg.simType='S1_TH_coreneuron'
+cfg.simType='S1_TH'
 cfg.coreneuron = False
 
 #------------------------------------------------------------------------------
@@ -100,10 +100,10 @@ for line in mtype_content.split('\n')[:-1]:
     
     cellParam.append(mtype + '_' + etype[0:3])
     
-# cfg.S1pops = popParam[30:55]
-# cfg.S1cells = cellParam
+cfg.S1pops = popParam[0:55]
+cfg.S1cells = cellParam
 
-cfg.S1pops = ['L5_SBC', 'L5_TTPC2', 'L6_SBC', 'L6_TPC_L4']
+# cfg.S1pops = ['L5_SBC', 'L5_TTPC2', 'L6_SBC', 'L6_TPC_L4']
 
 cfg.S1cells = []
 for metype in cellParam:
@@ -150,11 +150,11 @@ cfg.scale = 1.0 # reduce size
 cfg.sizeY = 2082.0
 cfg.sizeX = 420.0 # r = 210 um and hexagonal side length = 230.9 um
 cfg.sizeZ = 420.0
-cfg.scaleDensity = 0.02 # Number of cells = 31346
+cfg.scaleDensity = 1.0 # Number of cells = 31346
 
 for metype in cfg.S1cells:
     # print(metype, cfg.cellNumber[metype])
-    if int(np.ceil(cfg.scaleDensity*cfg.cellNumber[metype])) < 50000:
+    if int(np.ceil(cfg.scaleDensity*cfg.cellNumber[metype])) < 1:
         if 'TPC' in metype:
             cfg.cellNumber[metype] = 1
         else:
@@ -191,13 +191,17 @@ elif cfg.cellsrec == 2: # record one cell of each cellMEtype
 cfg.recordTraces = {'V_soma': {'sec':'soma', 'loc':0.5, 'var':'v'}}  ## Dict with traces to record
 cfg.recordStim = False			
 cfg.recordTime = False  		
-cfg.recordStep = 0.1            
+cfg.recordStep = 0.1           
+
+# cfg.recordLFP = [[xz, y, xz] for xz in [105, 500] for y in [500, 1000, 1500, 2000]] #
+
+# cfg.recordLFP = [[xz, y, xz] for xz in [0] for y in [500, 2000]] 
 
 # print(cfg.recordCells)
 #------------------------------------------------------------------------------
 # Saving
 #------------------------------------------------------------------------------
-cfg.simLabel = 'v7_batch2'
+cfg.simLabel = 'v7_batch0'
 cfg.saveFolder = '../data/'+cfg.simLabel
 # cfg.filename =                	## Set file output name
 cfg.savePickle = True         	## Save pkl file
@@ -213,8 +217,9 @@ cfg.saveCellConns = False
 # ------------------------------------------------------------------------------
 cfg.analysis['plotRaster'] = {'include': cfg.allpops, 'saveFig': True, 'showFig': False, 'orderInverse': True, 'timeRange': [0,cfg.duration], 
                               'figSize': (24,12), 'popRates': False, 'fontSize':12, 'lw': 1, 'markerSize':2, 'marker': '.', 'dpi': 100} 
-# cfg.analysis['plot2Dnet']   = {'include': cfg.allpops, 'saveFig': True, 'showConns': False, 'figSize': (24,24), 'fontSize':8}   # Plot 2D cells xy
-cfg.analysis['plotTraces'] = {'include': cfg.recordCells, 'oneFigPer': 'cell', 'overlay': True, 'timeRange': [0,cfg.duration], 'ylim': [-100,50], 'saveFig': True, 'showFig': False, 'figSize':(12,4)}
+cfg.analysis['plot2Dnet']   = {'include': cfg.allpops, 'saveFig': True, 'showConns': False, 'figSize': (24,24), 'fontSize':8}   # Plot 2D cells xy
+cfg.analysis['plotTraces'] = {'include': cfg.recordCells, 'oneFigPer': 'cell', 'overlay': True, 'timeRange': [8000,cfg.duration], 'ylim': [-100,50], 'saveFig': True, 'showFig': False, 'figSize':(12,4)}
+# cfg.analysis['plotLFP'] = {'separation': 1.0, 'plots': ['timeSeries', 'spectrogram'], 'timeRange': [8000,cfg.duration], 'maxFreq': 500, 'saveFig': True, 'showFig': False}
 # cfg.analysis['plot2Dfiring']={'saveFig': True, 'figSize': (24,24), 'fontSize':16}
 # cfg.analysis['plotConn'] = {'includePre': cfg.allpops, 'includePost': cfg.allpops, 'feature': 'numConns', 'groupBy': 'pop', 'figSize': (12,12), 
                             # 'saveFig': True, 'orderBy': 'gid', 'graphType': 'matrix', 'saveData':'../data/matrix_numConn.json', 'fontSize': 18}
@@ -278,7 +283,7 @@ cfg.TC_S1['POm_sTC_s1'] = True
 cfg.frac_Th_S1 = 1.0
 #------------------------------------------------------------------------------
 ## S1->Th 
-cfg.connect_S1_Th = True
+cfg.connect_S1_Th = False
 
 cfg.connect_S1_RTN = True
 cfg.convergence_S1_RTN         = 30.0  # dist_2D<R
@@ -291,35 +296,39 @@ cfg.connWeight_S1_TC       = 0.250
 #------------------------------------------------------------------------------
 # Current inputs 
 #------------------------------------------------------------------------------
-cfg.addIClamp = True  # decrease the transient
+cfg.addIClamp = True  
  
 cfg.thalamocorticalconnections =  ['VPM_sTC']
 
 cfg.IClamp = []
 cfg.IClampnumber = 0
 
+#------------------------------------------------------------------------------
+## decrease transient
 cfg.IClamp.append({'pop': 'VPM_sTC', 'sec': 'soma', 'loc': 0.5, 'start': 0, 'dur': 5, 'amp': 5.0}) #pA
 cfg.IClampnumber=cfg.IClampnumber+1
 
 cfg.IClamp.append({'pop': 'VPM_TC', 'sec': 'soma', 'loc': 0.5, 'start': 5, 'dur': 5, 'amp': 5.0}) #pA
 cfg.IClampnumber=cfg.IClampnumber+1
-
     
-# # Simgle Pulse (IPI = 2 sec)
+#------------------------------------------------------------------------------
+## Simgle Pulse (IPI = 2 sec)
 # for stimOPT in range(2):
 #     cfg.IClamp.append({'pop': 'VPM_sTC', 'sec': 'soma', 'loc': 0.5, 'start': 9000+stimOPT*2000, 'dur': 25, 'amp': -0.1}) #pA
 #     cfg.IClampnumber=cfg.IClampnumber+1
 
-# # Rhythmic
+#------------------------------------------------------------------------------
+## Rhythmic
 for stimOPT in range(20):
     cfg.IClamp.append({'pop': 'VPM_sTC', 'sec': 'soma', 'loc': 0.5, 'start': 9000+stimOPT*100, 'dur': 25, 'amp': -0.1}) #pA
     cfg.IClampnumber=cfg.IClampnumber+1
 
-# Non-Rhythmic
+#------------------------------------------------------------------------------
+## Non-Rhythmic
 # time = 0
 # cfg.IClamp.append({'pop': 'VPM_sTC', 'sec': 'soma', 'loc': 0.5, 'start': 9000+time, 'dur': 25, 'amp': -0.1}) #pA
 # cfg.IClampnumber=cfg.IClampnumber+1
-# # print(9000+time)
+# #print(9000+time)
 
 # interval_time = [63, 83, 63, 59, 88, 104, 80, 79, 71, 67, 111, 83, 56,138, 52, 58, 68, 64, 86, 69, 51, 65, 66, 87, 68, 62, 60, 
 #                  73, 75, 50, 132, 53, 52, 56,108, 83, 77, 60, 100, 58, 106, 61, 68, 56, 58, 53, 53, 77, 59, 91, 137, 57, 67, 68, 
@@ -334,7 +343,7 @@ for stimOPT in range(20):
 #     time=time+t
 #     cfg.IClamp.append({'pop': 'VPM_sTC', 'sec': 'soma', 'loc': 0.5, 'start': 9000+time, 'dur': 25, 'amp': -0.1}) #pA
 #     cfg.IClampnumber=cfg.IClampnumber+1
-#     # print(9000+time)
+#    # print(9000+time)
 
 # print(cfg.IClampnumber)
 # print(cfg.IClamp)

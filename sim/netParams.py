@@ -942,4 +942,5 @@ netParams.description = """
 - v5 - insert thalamic pops
 - v6 - insert Short Term synaptic plasticity (STP) between S1 cells and projections S1->Th
 - v7 - insert projections Th->S1
+- v8 - insert stim in VPM cells opto-like
 """
