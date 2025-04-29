@@ -62,8 +62,8 @@ def setRunCfg(b, type='mpi_bulletin'):
         b.runCfg = {'type': 'hpc_slurm',
                     'allocation': 'TG-MED240050',
                     'partition': 'compute',
-                    'walltime': '12:00:00',
-                    'nodes': 4,
+                    'walltime': '2:00:00',
+                    'nodes': 1,
                     'coresPerNode': 128,
                     'email': 'fernandodasilvaborges@gmail.com',
                     'folder': '/home/fborges/Thalamocortical_model/sim/',
@@ -90,8 +90,8 @@ def setRunCfg(b, type='mpi_bulletin'):
         b.runCfg = {'type': 'hpc_slurm',
                     'allocation': 'TG-IBN140002',
                     'partition': 'large-shared',
-                    'walltime': '22:00:00',
-                    'nodes': 2,
+                    'walltime': '4:00:00',
+                    'nodes': 1,
                     'coresPerNode': 128,
                     'email': 'fernandodasilvaborges@gmail.com',
                     'folder': '/home/fborges/Thalamocortical_model/sim/',
@@ -105,13 +105,13 @@ def setRunCfg(b, type='mpi_bulletin'):
 # ----------------------------------------------------------------------------------------------
 if __name__ == '__main__': 
 
-    for i in range(2,3):
+    for i in range(1,2):
 
         b = custom(i) #
 
-        b.batchLabel = 'v8_batch'+str(1+i)  
+        b.batchLabel = 'v9_batch'+str(1+i)  
         b.saveFolder = '../data/'+b.batchLabel
         b.method = 'grid'
-        setRunCfg(b, 'hpc_slurm_Expanse2')
+        setRunCfg(b, 'hpc_slurm_Expanse')
         # setRunCfg(b, 'mpi_direct')
         b.run() # run batch
