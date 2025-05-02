@@ -1,4 +1,3 @@
-
 """
 netParams.py
 
@@ -95,7 +94,7 @@ for metype in cellsVSName.keys(): # metype
     for cellLabel in cellsVSName[metype]: # all cells in metype
 
         if np.size(spkTimes[metype+'_'+cellLabel.split('_')[-1]]) == 0:
-            spkTimes[metype+'_'+cellLabel.split('_')[-1]] = [12000.5]
+            spkTimes[metype+'_'+cellLabel.split('_')[-1]] = [6000.5]
 
         mtype = cfg.popLabel[metype]    
 
@@ -710,7 +709,7 @@ if cfg.connect_ThVecStim_S1:
                 netParams.connParams['thal_'+pre+'_'+post] = { 
                     'preConds': {'pop': 'presyn_'+pre},  ####################################################
                     'postConds': {'pop': cfg.popLabelEl[post]},
-                    'weight': 0.19,   # synaptic weight 
+                    'weight': 2.0*0.19,   # synaptic weight 
                     'sec': 'spinyEE', # target postsyn section
                     'delay': 'defaultDelay+dist_3D/propVelocity',
                     'synsPerConn': int(synapsesperconnection_Th_S1), 

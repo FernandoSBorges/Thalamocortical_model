@@ -65,7 +65,7 @@ sim.saveData()                    			# save params, cell info and sim output to 
 sim.analysis.plotData()         			# plot spike raster etc
 
 
-timeRange = [8000,12000]  # 'VPM_TC','ss_RTN_m', 
+timeRange = [2000,6000]  # 'VPM_TC','ss_RTN_m', 
 sim.analysis.plotSpikeHist(include=[['presyn_VPM_sTC', 'presyn_VPM_TC']], binSize=1, figSize=(18, 6.0), fontSize = 12, legend=False, showFig= False,
                                         timeRange = timeRange, graphType = 'bar', measure = 'rate', linewidth=5, dpi=300, saveData=False, saveFig=True);
 

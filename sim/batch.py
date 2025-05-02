@@ -62,8 +62,8 @@ def setRunCfg(b, type='mpi_bulletin'):
         b.runCfg = {'type': 'hpc_slurm',
                     'allocation': 'TG-MED240050',
                     'partition': 'compute',
-                    'walltime': '2:00:00',
-                    'nodes': 1,
+                    'walltime': '4:00:00',
+                    'nodes': 8,
                     'coresPerNode': 128,
                     'email': 'fernandodasilvaborges@gmail.com',
                     'folder': '/home/fborges/Thalamocortical_model/sim/',
@@ -76,14 +76,14 @@ def setRunCfg(b, type='mpi_bulletin'):
         b.runCfg = {'type': 'hpc_slurm',
                     'allocation': 'TG-IBN140002',
                     'partition': 'compute',
-                    'walltime': '24:00:00',
-                    'nodes': 1,
-                    'coresPerNode': 32,
+                    'walltime': '4:00:00',
+                    'nodes': 4,
+                    'coresPerNode': 128,
                     'email': 'fernandodasilvaborges@gmail.com',
-                    'folder': '/home/fborges/Thalamocortical_model/sim/',
+                    'folder': '/expanse/lustre/projects/csd403/fborges/Thalamocortical_model/sim/',
                     'script': 'init.py',
                     'mpiCommand': 'mpirun',
-                    'custom': '#SBATCH --constraint="lustre"\n#SBATCH --mem=128G\n#SBATCH --export=ALL\n#SBATCH --partition=compute',
+                    'custom': '#SBATCH --constraint="lustre"\n#SBATCH --mem=240G\n#SBATCH --export=ALL\n#SBATCH --partition=compute',
                     'skip': True}
 
     elif type == 'hpc_slurm_Expanse2':
@@ -91,7 +91,7 @@ def setRunCfg(b, type='mpi_bulletin'):
                     'allocation': 'TG-IBN140002',
                     'partition': 'large-shared',
                     'walltime': '4:00:00',
-                    'nodes': 1,
+                    'nodes': 4,
                     'coresPerNode': 128,
                     'email': 'fernandodasilvaborges@gmail.com',
                     'folder': '/home/fborges/Thalamocortical_model/sim/',
@@ -105,11 +105,12 @@ def setRunCfg(b, type='mpi_bulletin'):
 # ----------------------------------------------------------------------------------------------
 if __name__ == '__main__': 
 
-    for i in range(1,2):
+    for i in range(2,3):
 
         b = custom(i) #
 
-        b.batchLabel = 'v9_batch'+str(1+i)  
+        b.batchLabel = 'v9_batch'+str(4+i)  
+        #b.saveFolder = '/expanse/lustre/projects/csd403/fborges/Thalamocortical_model/data/'+b.batchLabel
         b.saveFolder = '../data/'+b.batchLabel
         b.method = 'grid'
         setRunCfg(b, 'hpc_slurm_Expanse')

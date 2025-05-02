@@ -25,7 +25,7 @@ cfg.coreneuron = False
 #------------------------------------------------------------------------------
 # Run parameters
 #------------------------------------------------------------------------------
-cfg.duration = 12.0*1e2 ## Duration of the sim, in ms  
+cfg.duration = 6.0*1e3 ## Duration of the sim, in ms  
 cfg.dt = 0.05
 cfg.seeds = {'cell': 4321, 'conn': 4321, 'stim': 1000, 'loc': 4321} 
 cfg.hParams = {'celsius': 34, 'v_init': -69.5}  
@@ -93,7 +93,7 @@ for mtype in cfg.thalamicpops: # No diversity
 #------------------------------------------------------------------------------
 # load data from S1 Raster
 #------------------------------------------------------------------------------
-cfg.spike_position_file = '../data/spkTimes_v8_batch1.pkl'
+cfg.spike_position_file = '../data/spkTimes_v8_batch3_6s.pkl'
 
 ## Load spkTimes and cells positions
 with open(cfg.spike_position_file, 'rb') as fileObj: simData = pickle.load(fileObj)
@@ -116,7 +116,7 @@ for cellLabel in spkTimes.keys():
 
 #------------------------------------------------------------------------------
 cfg.cynradNumber = 1
-cfg.fracmorphoradius = 1.0/10.0
+cfg.fracmorphoradius = 1.0/2.5
 
 excluderadius2a = (cfg.cynradNumber-1)*(0.5*cfg.fracmorphoradius)**2
 excluderadius2b = (cfg.cynradNumber)*(0.5*cfg.fracmorphoradius)**2
@@ -184,7 +184,7 @@ cfg.cellParamLabels = cfg.S1cells
 # Recording 
 #--------------------------------------------------------------------------
 cfg.allpops = cfg.cellParamLabels
-cfg.cellsrec = 2
+cfg.cellsrec = 1
 if cfg.cellsrec == 0:  cfg.recordCells = cfg.allpops # record all cells
 elif cfg.cellsrec == 1: cfg.recordCells = [(pop,0) for pop in cfg.allpops] # record one cell of each pop
 elif cfg.cellsrec == 2: # record one cell of each cellMEtype # need more test!!!
@@ -208,7 +208,7 @@ elif cfg.cellsrec == 2: # record one cell of each cellMEtype # need more test!!!
 cfg.recordTraces = {'V_soma': {'sec':'soma', 'loc':0.5, 'var':'v'}}  ## Dict with traces to record
 cfg.recordStim = False			
 cfg.recordTime = False  		
-cfg.recordStep = 0.05       
+cfg.recordStep = 0.5       
 
 # cfg.saveLFPPops =  cfg.recordCells 
 
