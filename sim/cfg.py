@@ -319,31 +319,31 @@ cfg.IClampnumber=cfg.IClampnumber+1
 
 #------------------------------------------------------------------------------
 ## Rhythmic
-for stimOPT in range(20):
-    cfg.IClamp.append({'pop': 'VPM_sTC', 'sec': 'soma', 'loc': 0.5, 'start': 9000+stimOPT*100, 'dur': 25, 'amp': -0.1}) #pA
-    cfg.IClampnumber=cfg.IClampnumber+1
+# for stimOPT in range(20):
+#     cfg.IClamp.append({'pop': 'VPM_sTC', 'sec': 'soma', 'loc': 0.5, 'start': 9000+stimOPT*100, 'dur': 25, 'amp': -0.1}) #pA
+#     cfg.IClampnumber=cfg.IClampnumber+1
 
 #------------------------------------------------------------------------------
 ## Non-Rhythmic
-# time = 0
-# cfg.IClamp.append({'pop': 'VPM_sTC', 'sec': 'soma', 'loc': 0.5, 'start': 9000+time, 'dur': 25, 'amp': -0.1}) #pA
-# cfg.IClampnumber=cfg.IClampnumber+1
-# #print(9000+time)
+time = 0
+cfg.IClamp.append({'pop': 'VPM_sTC', 'sec': 'soma', 'loc': 0.5, 'start': 9000+time, 'dur': 25, 'amp': -0.1}) #pA
+cfg.IClampnumber=cfg.IClampnumber+1
+#print(9000+time)
 
-# interval_time = [63, 83, 63, 59, 88, 104, 80, 79, 71, 67, 111, 83, 56,138, 52, 58, 68, 64, 86, 69, 51, 65, 66, 87, 68, 62, 60, 
-#                  73, 75, 50, 132, 53, 52, 56,108, 83, 77, 60, 100, 58, 106, 61, 68, 56, 58, 53, 53, 77, 59, 91, 137, 57, 67, 68, 
-#                  53, 62, 62, 54, 55, 64, 92, 86, 53,139, 68, 95, 51, 58, 67, 69, 120, 60,129,116, 66, 108, 55, 55, 58, 97, 60, 
-#                  66, 51, 61, 56, 70, 71, 55,112, 100, 94, 73, 55, 55,120, 73, 66, 72, 61, 62]
+interval_time = [63, 83, 63, 59, 88, 104, 80, 79, 71, 67, 111, 83, 56,138, 52, 58, 68, 64, 86, 69, 51, 65, 66, 87, 68, 62, 60, 
+                 73, 75, 50, 132, 53, 52, 56,108, 83, 77, 60, 100, 58, 106, 61, 68, 56, 58, 53, 53, 77, 59, 91, 137, 57, 67, 68, 
+                 53, 62, 62, 54, 55, 64, 92, 86, 53,139, 68, 95, 51, 58, 67, 69, 120, 60,129,116, 66, 108, 55, 55, 58, 97, 60, 
+                 66, 51, 61, 56, 70, 71, 55,112, 100, 94, 73, 55, 55,120, 73, 66, 72, 61, 62]
 
-# interval_time = np.array(interval_time)+25
+interval_time = np.array(interval_time)+25
 
-# randomly_chosen_20elements = np.random.choice(interval_time, size=19, replace=False)
+randomly_chosen_20elements = np.random.choice(interval_time, size=19, replace=False)
 
-# for t in randomly_chosen_20elements:
-#     time=time+t
-#     cfg.IClamp.append({'pop': 'VPM_sTC', 'sec': 'soma', 'loc': 0.5, 'start': 9000+time, 'dur': 25, 'amp': -0.1}) #pA
-#     cfg.IClampnumber=cfg.IClampnumber+1
-#    # print(9000+time)
+for t in randomly_chosen_20elements:
+    time=time+t
+    cfg.IClamp.append({'pop': 'VPM_sTC', 'sec': 'soma', 'loc': 0.5, 'start': 9000+time, 'dur': 25, 'amp': -0.1}) #pA
+    cfg.IClampnumber=cfg.IClampnumber+1
+   # print(9000+time)
 
 # print(cfg.IClampnumber)
 # print(cfg.IClamp)

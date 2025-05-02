@@ -12,11 +12,11 @@ import numpy as np
 # ----------------------------------------------------------------------------------------------
 # Custom
 # ----------------------------------------------------------------------------------------------
-def custom(i):
+def custom():
     params = specs.ODict()
 
-    params[('seeds', 'conn')] = [4321+i]
-    params[('seeds', 'loc')] = [4321+i]
+    params[('seeds', 'conn')] = [4321]
+    params[('seeds', 'loc')] = [4321]
    
     b = Batch(params=params, netParamsFile='netParams.py', cfgFile='cfg.py')
 
@@ -48,7 +48,7 @@ def setRunCfg(b, type='mpi_bulletin'):
 
     elif type=='mpi_direct':
         b.runCfg = {'type': 'mpi_direct',
-            'cores': 12,
+            'cores': 6,
             'script': 'init.py',
             'mpiCommand': 'mpiexec', # --use-hwthread-cpus
             'skip': True}
@@ -90,8 +90,8 @@ def setRunCfg(b, type='mpi_bulletin'):
         b.runCfg = {'type': 'hpc_slurm',
                     'allocation': 'TG-IBN140002',
                     'partition': 'large-shared',
-                    'walltime': '22:00:00',
-                    'nodes': 2,
+                    'walltime': '30:00:00',
+                    'nodes': 1,
                     'coresPerNode': 128,
                     'email': 'fernandodasilvaborges@gmail.com',
                     'folder': '/home/fborges/Thalamocortical_model/sim/',
@@ -105,9 +105,9 @@ def setRunCfg(b, type='mpi_bulletin'):
 # ----------------------------------------------------------------------------------------------
 if __name__ == '__main__': 
 
-    for i in range(2,3):
+    for i in range(1,3):
 
-        b = custom(i) #
+        b = custom() #
 
         b.batchLabel = 'v8_batch'+str(1+i)  
         b.saveFolder = '../data/'+b.batchLabel
