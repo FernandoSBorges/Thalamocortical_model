@@ -709,7 +709,7 @@ if cfg.connect_ThVecStim_S1:
                 netParams.connParams['thal_'+pre+'_'+post] = { 
                     'preConds': {'pop': 'presyn_'+pre},  ####################################################
                     'postConds': {'pop': cfg.popLabelEl[post]},
-                    'weight': 2.0*0.19,   # synaptic weight 
+                    'weight': 1.0*0.19,   # synaptic weight 
                     'sec': 'spinyEE', # target postsyn section
                     'delay': 'defaultDelay+dist_3D/propVelocity',
                     'synsPerConn': int(synapsesperconnection_Th_S1), 
@@ -720,6 +720,9 @@ if cfg.connect_ThVecStim_S1:
                 else:
                     netParams.connParams['thal_'+pre+'_'+post]['probability'] = probability_rule # FO (First Order)
 
+                if post in cfg.S1pops[16:]:
+                    netParams.connParams['thal_'+pre+'_'+post]['weight'] = 0.5 * 0.19
+                
 #------------------------------------------------------------------------------
 # Description
 #------------------------------------------------------------------------------
@@ -735,4 +738,5 @@ netParams.description = """
 - v7 - insert projections Th->S1
 - v8 - insert stim in VPM cells opto-like 
 - v9 - calculate LFPs -> only in branch "LFP"
+- v10 - decrease the TC -> L4-6 weight by 50%
 """

@@ -109,7 +109,7 @@ if __name__ == '__main__':
 
         b = custom(i) #
 
-        b.batchLabel = 'v9_batch'+str(4+i)  
+        b.batchLabel = 'v10_batch'+str(i)  
         #b.saveFolder = '/expanse/lustre/projects/csd403/fborges/Thalamocortical_model/data/'+b.batchLabel
         b.saveFolder = '../data/'+b.batchLabel
         b.method = 'grid'

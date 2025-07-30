@@ -93,7 +93,7 @@ for mtype in cfg.thalamicpops: # No diversity
 #------------------------------------------------------------------------------
 # load data from S1 Raster
 #------------------------------------------------------------------------------
-cfg.spike_position_file = '../data/spkTimes_v8_batch3_6s.pkl'
+cfg.spike_position_file = '../data/spkTimes_v8_batch2_6s.pkl'
 
 ## Load spkTimes and cells positions
 with open(cfg.spike_position_file, 'rb') as fileObj: simData = pickle.load(fileObj)
