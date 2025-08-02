@@ -105,11 +105,11 @@ def setRunCfg(b, type='mpi_bulletin'):
 # ----------------------------------------------------------------------------------------------
 if __name__ == '__main__': 
 
-    for i in range(1,3):
+    for i in range(4,7):
 
         b = custom() #
 
-        b.batchLabel = 'v8_batch'+str(1+i)  
+        b.batchLabel = 'v8_batch'+str(i)  
         b.saveFolder = '../data/'+b.batchLabel
         b.method = 'grid'
         setRunCfg(b, 'hpc_slurm_Expanse2')

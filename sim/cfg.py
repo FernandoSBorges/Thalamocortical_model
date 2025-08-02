@@ -153,14 +153,7 @@ cfg.sizeZ = 420.0
 cfg.scaleDensity = 1.0 # Number of cells = 31346
 
 for metype in cfg.S1cells:
-    # print(metype, cfg.cellNumber[metype])
-    if int(np.ceil(cfg.scaleDensity*cfg.cellNumber[metype])) < 1:
-        if 'TPC' in metype:
-            cfg.cellNumber[metype] = 1
-        else:
-            cfg.cellNumber[metype] = 1
-    else:
-        cfg.cellNumber[metype] = int(np.ceil(cfg.scaleDensity*cfg.cellNumber[metype]))
+    cfg.cellNumber[metype] = int(np.ceil(cfg.scaleDensity*cfg.cellNumber[metype]))
     # print(metype, cfg.cellNumber[metype])
 
 #--------------------------------------------------------------------------
@@ -201,7 +194,7 @@ cfg.recordStep = 0.1
 #------------------------------------------------------------------------------
 # Saving
 #------------------------------------------------------------------------------
-cfg.simLabel = 'v7_batch0'
+cfg.simLabel = 'v0_batch0'
 cfg.saveFolder = '../data/'+cfg.simLabel
 # cfg.filename =                	## Set file output name
 cfg.savePickle = True         	## Save pkl file
@@ -347,62 +340,3 @@ for t in randomly_chosen_20elements:
 
 # print(cfg.IClampnumber)
 # print(cfg.IClamp)
-
-#------------------------------------------------------------------------------
-# NetStim inputs 
-#------------------------------------------------------------------------------
-cfg.addNetStim=False
-if cfg.addNetStim:
-    
-    cfg.numStims    = 100
-    cfg.netWeight   = 0.005
-    cfg.startStimTime = 0
-    cfg.interStimInterval=0.1
-
-    cfg.NetStim1    = { 'pop':              'VPM_sTC', 
-                        'ynorm':            [0,1], 
-                        'sec':              'soma', 
-                        'loc':              0.5, 
-                        'synMech':          ['AMPA_Th'], 
-                        'synMechWeightFactor': [1.0],
-                        'start':            cfg.startStimTime, 
-                        'interval':         cfg.interStimInterval, 
-                        'noise':            1, 
-                        'number':           cfg.numStims, 
-                        'weight':           cfg.netWeight, 
-                        'delay':            0}
-
-#------------------------------------------------------------------------------
-# Targeted NetStim inputs 
-#------------------------------------------------------------------------------
-cfg.addTargetedNetStim=False
-if cfg.addTargetedNetStim:
-    
-    cfg.startStimTime=None
-    cfg.stimPop = None
-    cfg.netWeight           = 20
-    # cfg.startStimTime1      = 2000
-    cfg.numStims            = 15
-    cfg.interStimInterval   = 75 #125#1000/5
-
-    cfg.numOfTargetCells=100
-
-    cfg.TargetedNetStim1= { 
-                        'pop':              'VPL_sTC', 
-                        # 'pop':              cfg.stimPop, 
-                        'ynorm':            [0,1], 
-                        'sec':              'soma', 
-                        'loc':              0.5, 
-                        'synMech':          ['AMPA_Th'], 
-                        'synMechWeightFactor': [1.0],
-                        'start':            1500, 
-                        'interval':         cfg.interStimInterval, 
-                        'noise':            1, 
-                        'number':           cfg.numStims, 
-                        'weight':           cfg.netWeight, 
-                        'delay':            0,
-                        # 'targetCells':      [0]
-                        # 'targetCells':      list(range(0,10,1))
-                        'targetCells':      list(range(0,cfg.numOfTargetCells,1))
-                        # 'targetCells':      [0,50,500,900]
-                        }
