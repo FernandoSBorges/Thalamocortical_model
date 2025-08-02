@@ -16,7 +16,7 @@ def custom(i):
     params = specs.ODict()
 
     params[('seeds', 'conn')] = [4321+i]
-    params[('seeds', 'loc')] = [4321+i]
+    params[('spike_position_file')] = ['../data/spkTimes_v8_batch' + str(i) + '_6s.pkl']
    
     b = Batch(params=params, netParamsFile='netParams.py', cfgFile='cfg.py')
 
@@ -48,7 +48,7 @@ def setRunCfg(b, type='mpi_bulletin'):
 
     elif type=='mpi_direct':
         b.runCfg = {'type': 'mpi_direct',
-            'cores': 12,
+            'cores': 2,
             'script': 'init.py',
             'mpiCommand': 'mpiexec', # --use-hwthread-cpus
             'skip': True}
@@ -105,11 +105,11 @@ def setRunCfg(b, type='mpi_bulletin'):
 # ----------------------------------------------------------------------------------------------
 if __name__ == '__main__': 
 
-    for i in range(2,3):
+    for i in range(1,4):
 
         b = custom(i) #
 
-        b.batchLabel = 'v10_batch'+str(i)  
+        b.batchLabel = 'v9_batch'+str(i)  
         #b.saveFolder = '/expanse/lustre/projects/csd403/fborges/Thalamocortical_model/data/'+b.batchLabel
         b.saveFolder = '../data/'+b.batchLabel
         b.method = 'grid'
