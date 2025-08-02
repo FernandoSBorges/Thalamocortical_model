@@ -33,7 +33,7 @@
                 "loc": 0.5,
                 "pop": "VPM_sTC",
                 "sec": "soma",
-                "start": 9081
+                "start": 9092
             },
             {
                 "amp": -0.1,
@@ -41,7 +41,7 @@
                 "loc": 0.5,
                 "pop": "VPM_sTC",
                 "sec": "soma",
-                "start": 9159
+                "start": 9187
             },
             {
                 "amp": -0.1,
@@ -49,7 +49,7 @@
                 "loc": 0.5,
                 "pop": "VPM_sTC",
                 "sec": "soma",
-                "start": 9255
+                "start": 9324
             },
             {
                 "amp": -0.1,
@@ -57,7 +57,7 @@
                 "loc": 0.5,
                 "pop": "VPM_sTC",
                 "sec": "soma",
-                "start": 9353
+                "start": 9443
             },
             {
                 "amp": -0.1,
@@ -65,7 +65,7 @@
                 "loc": 0.5,
                 "pop": "VPM_sTC",
                 "sec": "soma",
-                "start": 9472
+                "start": 9600
             },
             {
                 "amp": -0.1,
@@ -73,7 +73,7 @@
                 "loc": 0.5,
                 "pop": "VPM_sTC",
                 "sec": "soma",
-                "start": 9608
+                "start": 9684
             },
             {
                 "amp": -0.1,
@@ -81,7 +81,7 @@
                 "loc": 0.5,
                 "pop": "VPM_sTC",
                 "sec": "soma",
-                "start": 9701
+                "start": 9769
             },
             {
                 "amp": -0.1,
@@ -89,7 +89,7 @@
                 "loc": 0.5,
                 "pop": "VPM_sTC",
                 "sec": "soma",
-                "start": 9778
+                "start": 9867
             },
             {
                 "amp": -0.1,
@@ -97,7 +97,7 @@
                 "loc": 0.5,
                 "pop": "VPM_sTC",
                 "sec": "soma",
-                "start": 9868
+                "start": 9949
             },
             {
                 "amp": -0.1,
@@ -105,7 +105,7 @@
                 "loc": 0.5,
                 "pop": "VPM_sTC",
                 "sec": "soma",
-                "start": 9948
+                "start": 10025
             },
             {
                 "amp": -0.1,
@@ -113,7 +113,7 @@
                 "loc": 0.5,
                 "pop": "VPM_sTC",
                 "sec": "soma",
-                "start": 10028
+                "start": 10123
             },
             {
                 "amp": -0.1,
@@ -121,7 +121,7 @@
                 "loc": 0.5,
                 "pop": "VPM_sTC",
                 "sec": "soma",
-                "start": 10106
+                "start": 10199
             },
             {
                 "amp": -0.1,
@@ -129,7 +129,7 @@
                 "loc": 0.5,
                 "pop": "VPM_sTC",
                 "sec": "soma",
-                "start": 10243
+                "start": 10280
             },
             {
                 "amp": -0.1,
@@ -137,7 +137,7 @@
                 "loc": 0.5,
                 "pop": "VPM_sTC",
                 "sec": "soma",
-                "start": 10355
+                "start": 10374
             },
             {
                 "amp": -0.1,
@@ -145,7 +145,7 @@
                 "loc": 0.5,
                 "pop": "VPM_sTC",
                 "sec": "soma",
-                "start": 10442
+                "start": 10467
             },
             {
                 "amp": -0.1,
@@ -153,7 +153,7 @@
                 "loc": 0.5,
                 "pop": "VPM_sTC",
                 "sec": "soma",
-                "start": 10575
+                "start": 10598
             },
             {
                 "amp": -0.1,
@@ -161,7 +161,7 @@
                 "loc": 0.5,
                 "pop": "VPM_sTC",
                 "sec": "soma",
-                "start": 10661
+                "start": 10698
             },
             {
                 "amp": -0.1,
@@ -169,7 +169,7 @@
                 "loc": 0.5,
                 "pop": "VPM_sTC",
                 "sec": "soma",
-                "start": 10783
+                "start": 10820
             },
             {
                 "amp": -0.1,
@@ -177,7 +177,7 @@
                 "loc": 0.5,
                 "pop": "VPM_sTC",
                 "sec": "soma",
-                "start": 10891
+                "start": 10953
             }
         ],
         "IClampnumber": 22,
@@ -10086,12 +10086,12 @@
         "scaleDensity": 1.0,
         "seeds": {
             "cell": 4322,
-            "conn": 4323,
-            "loc": 4323,
+            "conn": 4321,
+            "loc": 4321,
             "stim": 4322
         },
         "simLabel": "v8_batch3_0_0",
-        "simType": "S1_TH_coreneuron",
+        "simType": "S1_TH",
         "sizeX": 420.0,
         "sizeY": 2082.0,
         "sizeZ": 420.0,

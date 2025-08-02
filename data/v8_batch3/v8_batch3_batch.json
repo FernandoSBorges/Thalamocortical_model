@@ -15,7 +15,7 @@
                     "conn"
                 ],
                 "values": [
-                    4323
+                    4321
                 ]
             },
             {
@@ -24,7 +24,7 @@
                     "loc"
                 ],
                 "values": [
-                    4323
+                    4321
                 ]
             }
         ],
@@ -35,12 +35,12 @@
             "email": "fernandodasilvaborges@gmail.com",
             "folder": "/home/fborges/Thalamocortical_model/sim/",
             "mpiCommand": "mpirun",
-            "nodes": 2,
+            "nodes": 1,
             "partition": "large-shared",
             "script": "init.py",
             "skip": true,
             "type": "hpc_slurm",
-            "walltime": "22:00:00"
+            "walltime": "30:00:00"
         },
         "saveFolder": "../data/v8_batch3",
         "seed": null
