@@ -27,7 +27,7 @@ cfg.coreneuron = False
 #------------------------------------------------------------------------------
 cfg.duration = 6.0*1e3 ## Duration of the sim, in ms  
 cfg.dt = 0.05
-cfg.seeds = {'cell': 4321, 'conn': 4321, 'stim': 1000, 'loc': 4321} 
+cfg.seeds = {'cell': 4322, 'conn': 4321, 'stim': 4322, 'loc': 4321} 
 cfg.hParams = {'celsius': 34, 'v_init': -69.5}  
 cfg.verbose = False
 cfg.createNEURONObj = True
@@ -93,7 +93,7 @@ for mtype in cfg.thalamicpops: # No diversity
 #------------------------------------------------------------------------------
 # load data from S1 Raster
 #------------------------------------------------------------------------------
-cfg.spike_position_file = '../data/spkTimes_v8_batch2_6s.pkl'
+cfg.spike_position_file = '../data/spkTimes_v8_batch10_6s.pkl'
 
 ## Load spkTimes and cells positions
 with open(cfg.spike_position_file, 'rb') as fileObj: simData = pickle.load(fileObj)

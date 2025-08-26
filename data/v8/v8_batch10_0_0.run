@@ -1,0 +1,2789 @@
+numprocs=128
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Start time:  2025-08-07 08:45:44.709537
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Loading simConfig...
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Loading simConfig...
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Loading simConfig...
+Loading simConfig...
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Loading simConfig...
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Loading simConfig...
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Loading simConfig...
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Loading simConfig...
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Loading simConfig...
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Loading simConfig...
+Loading simConfig...
+Loading simConfig...
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Loading simConfig...
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Loading simConfig...
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Loading simConfig...
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Reading command line arguments using syntax: python file.py [simConfig=filepath] [netParams=filepath]
+Importing simConfig from ../data/v8_batch10/v8_batch10_0_0_cfg.json
+Loading file ../data/v8_batch10/v8_batch10_0_0_cfg.json ... 
+Loading simConfig...
+Importing netParams from ../data/v8_batch10/v8_batch10_netParams.py
+
+Creating network of 210 cell populations on 128 hosts...
+  Number of cells on node 46: 264 
+  Number of cells on node 12: 264 
+  Number of cells on node 102: 263 
+  Number of cells on node 122: 263 
+  Number of cells on node 120: 263 
+  Number of cells on node 89: 263 
+  Number of cells on node 42: 264 
+  Number of cells on node 27: 264 
+  Number of cells on node 16: 264 
+  Number of cells on node 99: 263 
+  Number of cells on node 18: 264 
+  Number of cells on node 31: 264 
+  Number of cells on node 48: 264 
+  Number of cells on node 65: 264 
+  Number of cells on node 26: 264 
+  Number of cells on node 23: 264 
+  Number of cells on node 115: 263 
+  Number of cells on node 13: 264 
+  Number of cells on node 8: 264 
+  Number of cells on node 112: 263 
+  Number of cells on node 126: 263 
+  Number of cells on node 71: 264 
+  Number of cells on node 54: 264 
+  Number of cells on node 57: 264 
+  Number of cells on node 30: 264 
+  Number of cells on node 44: 264 
+  Number of cells on node 83: 263 
+  Number of cells on node 56: 264 
+  Number of cells on node 121: 263 
+  Number of cells on node 40: 264 
+  Number of cells on node 51: 264 
+  Number of cells on node 114: 263 
+  Number of cells on node 61: 264 
+  Number of cells on node 106: 263 
+  Number of cells on node 91: 263 
+  Number of cells on node 96: 263 
+  Number of cells on node 81: 263 
+  Number of cells on node 34: 264 
+  Number of cells on node 35: 264 
+  Number of cells on node 28: 264 
+  Number of cells on node 119: 263 
+  Number of cells on node 64: 264 
+  Number of cells on node 104: 263 
+  Number of cells on node 90: 263 
+  Number of cells on node 20: 264 
+  Number of cells on node 6: 264 
+  Number of cells on node 118: 263 
+  Number of cells on node 82: 263 
+  Number of cells on node 36: 264 
+  Number of cells on node 59: 264 
+  Number of cells on node 32: 264 
+  Number of cells on node 78: 263 
+  Number of cells on node 117: 263 
+  Number of cells on node 43: 264 
+  Number of cells on node 105: 263 
+  Number of cells on node 94: 263 
+  Number of cells on node 22: 264 
+  Number of cells on node 74: 263 
+  Number of cells on node 70: 264 
+  Number of cells on node 107: 263 
+  Number of cells on node 53: 264 
+  Number of cells on node 63: 264 
+  Number of cells on node 101: 263 
+  Number of cells on node 19: 264 
+  Number of cells on node 85: 263 
+  Number of cells on node 24: 264 
+  Number of cells on node 111: 263 
+  Number of cells on node 67: 264 
+  Number of cells on node 60: 264 
+  Number of cells on node 29: 264 
+  Number of cells on node 84: 263 
+  Number of cells on node 98: 263 
+  Number of cells on node 73: 264 
+  Number of cells on node 95: 263 
+  Number of cells on node 72: 264 
+  Number of cells on node 49: 264 
+  Number of cells on node 113: 263 
+  Number of cells on node 58: 264 
+  Number of cells on node 45: 264 
+  Number of cells on node 77: 263 
+  Number of cells on node 52: 264 
+  Number of cells on node 68: 264 
+  Number of cells on node 80: 263 
+  Number of cells on node 25: 264 
+  Number of cells on node 123: 263 
+  Number of cells on node 127: 263 
+  Number of cells on node 116: 263 
+  Number of cells on node 100: 263 
+  Number of cells on node 41: 264 
+  Number of cells on node 108: 263 
+  Number of cells on node 88: 263 
+  Number of cells on node 21: 264 
+  Number of cells on node 103: 263 
+  Number of cells on node 110: 263 
+  Number of cells on node 124: 263 
+  Number of cells on node 109: 263 
+  Number of cells on node 76: 263 
+  Number of cells on node 50: 264 
+  Number of cells on node 0: 264 
+  Number of cells on node 87: 263 
+  Number of cells on node 11: 264 
+  Number of cells on node 93: 263 
+  Number of cells on node 55: 264 
+  Number of cells on node 7: 264 
+  Number of cells on node 3: 264 
+  Number of cells on node 38: 264 
+  Number of cells on node 15: 264 
+  Number of cells on node 9: 264 
+  Number of cells on node 14: 264 
+  Number of cells on node 62: 264 
+  Number of cells on node 86: 263 
+  Number of cells on node 2: 264 
+  Number of cells on node 75: 263 
+  Number of cells on node 66: 264 
+  Number of cells on node 17: 264 
+  Number of cells on node 79: 263 
+  Number of cells on node 5: 264 
+  Number of cells on node 47: 264 
+  Number of cells on node 37: 264 
+  Number of cells on node 92: 263 
+  Number of cells on node 10: 264 
+  Number of cells on node 4: 264 
+  Number of cells on node 125: 263 
+  Number of cells on node 33: 264 
+  Number of cells on node 39: 264 
+  Number of cells on node 1: 264 
+  Number of cells on node 97: 263 
+  Number of cells on node 69: 264 
+  Done; cell creation time = 19.62 s.
+Making connections...
+  Number of connections on node 47: 70152 
+  Number of synaptic contacts on node 47: 364426 
+  Number of connections on node 37: 70615 
+  Number of synaptic contacts on node 37: 368392 
+  Number of connections on node 23: 70764 
+  Number of synaptic contacts on node 23: 374266 
+  Number of connections on node 5: 69156 
+  Number of synaptic contacts on node 5: 361719 
+  Number of connections on node 7: 68933 
+  Number of synaptic contacts on node 7: 358167 
+  Number of connections on node 13: 68702 
+  Number of synaptic contacts on node 13: 361017 
+  Number of connections on node 39: 69386 
+  Number of synaptic contacts on node 39: 362500 
+  Number of connections on node 21: 70391 
+  Number of synaptic contacts on node 21: 370633 
+  Number of connections on node 55: 69952 
+  Number of synaptic contacts on node 55: 365291 
+  Number of connections on node 45: 70864 
+  Number of synaptic contacts on node 45: 368757 
+  Number of connections on node 31: 70139 
+  Number of synaptic contacts on node 31: 370061 
+  Number of connections on node 15: 71763 
+  Number of synaptic contacts on node 15: 376985 
+  Number of connections on node 9: 70235 
+  Number of synaptic contacts on node 9: 370351 
+  Number of connections on node 53: 71111 
+  Number of synaptic contacts on node 53: 369683 
+  Number of connections on node 43: 70169 
+  Number of synaptic contacts on node 43: 367524 
+  Number of connections on node 61: 68284 
+  Number of synaptic contacts on node 61: 359081 
+  Number of connections on node 33: 70769 
+  Number of synaptic contacts on node 33: 369963 
+  Number of connections on node 49: 69126 
+  Number of synaptic contacts on node 49: 362632 
+  Number of connections on node 57: 71211 
+  Number of synaptic contacts on node 57: 371400 
+  Number of connections on node 29: 72213 
+  Number of synaptic contacts on node 29: 378169 
+  Number of connections on node 59: 70968 
+  Number of synaptic contacts on node 59: 372966 
+  Number of connections on node 41: 71205 
+  Number of synaptic contacts on node 41: 370072 
+  Number of connections on node 3: 68569 
+  Number of synaptic contacts on node 3: 360537 
+  Number of connections on node 1: 67564 
+  Number of synaptic contacts on node 1: 352556 
+  Number of connections on node 19: 70350 
+  Number of synaptic contacts on node 19: 370297 
+  Number of connections on node 35: 70472 
+  Number of synaptic contacts on node 35: 365465 
+  Number of connections on node 17: 71262 
+  Number of synaptic contacts on node 17: 376448 
+  Number of connections on node 25: 70758 
+  Number of synaptic contacts on node 25: 370728 
+  Number of connections on node 51: 71512 
+  Number of synaptic contacts on node 51: 372126 
+  Number of connections on node 27: 71206 
+  Number of synaptic contacts on node 27: 372466 
+  Number of connections on node 92: 69825 
+  Number of synaptic contacts on node 92: 365941 
+  Number of connections on node 11: 69929 
+  Number of synaptic contacts on node 11: 366612 
+  Number of connections on node 116: 70195 
+  Number of synaptic contacts on node 116: 367267 
+  Number of connections on node 118: 69865 
+  Number of synaptic contacts on node 118: 367034 
+  Number of connections on node 126: 71380 
+  Number of synaptic contacts on node 126: 377011 
+  Number of connections on node 102: 69869 
+  Number of synaptic contacts on node 102: 365387 
+  Number of connections on node 87: 70684 
+  Number of synaptic contacts on node 87: 370790 
+  Number of connections on node 100: 70926 
+  Number of synaptic contacts on node 100: 371077 
+  Number of connections on node 124: 72587 
+  Number of synaptic contacts on node 124: 380616 
+  Number of connections on node 84: 68165 
+  Number of synaptic contacts on node 84: 359520 
+  Number of connections on node 78: 72026 
+  Number of synaptic contacts on node 78: 377884 
+  Number of connections on node 86: 67944 
+  Number of synaptic contacts on node 86: 356120 
+  Number of connections on node 85: 68393 
+  Number of synaptic contacts on node 85: 358609 
+  Number of connections on node 70: 68718 
+  Number of synaptic contacts on node 70: 359918 
+  Number of connections on node 76: 70776 
+  Number of synaptic contacts on node 76: 371576 
+  Number of connections on node 119: 68870 
+  Number of synaptic contacts on node 119: 361890 
+  Number of connections on node 108: 70718 
+  Number of synaptic contacts on node 108: 368523 
+  Number of connections on node 110: 69353 
+  Number of synaptic contacts on node 110: 365556 
+  Number of connections on node 95: 69629 
+  Number of synaptic contacts on node 95: 364386 
+  Number of connections on node 79: 70087 
+  Number of synaptic contacts on node 79: 367298 
+  Number of connections on node 94: 69719 
+  Number of synaptic contacts on node 94: 361836 
+  Number of connections on node 111: 71103 
+  Number of synaptic contacts on node 111: 371791 
+  Number of connections on node 28: 72211 
+  Number of synaptic contacts on node 28: 377591 
+  Number of connections on node 93: 72422 
+  Number of synaptic contacts on node 93: 379031 
+  Number of connections on node 109: 69105 
+  Number of synaptic contacts on node 109: 363749 
+  Number of connections on node 127: 71145 
+  Number of synaptic contacts on node 127: 370938 
+  Number of connections on node 68: 69999 
+  Number of synaptic contacts on node 68: 363173 
+  Number of connections on node 71: 70379 
+  Number of synaptic contacts on node 71: 369300 
+  Number of connections on node 64: 69695 
+  Number of synaptic contacts on node 64: 365697 
+  Number of connections on node 46: 70674 
+  Number of synaptic contacts on node 46: 370016 
+  Number of connections on node 69: 72481 
+  Number of synaptic contacts on node 69: 381583 
+  Number of connections on node 103: 70369 
+  Number of synaptic contacts on node 103: 368748 
+  Number of connections on node 4: 69133 
+  Number of synaptic contacts on node 4: 362219 
+  Number of connections on node 12: 69331 
+  Number of synaptic contacts on node 12: 367142 
+  Number of connections on node 96: 70215 
+  Number of synaptic contacts on node 96: 366668 
+  Number of connections on node 74: 69744 
+  Number of synaptic contacts on node 74: 364964 
+  Number of connections on node 60: 69685 
+  Number of synaptic contacts on node 60: 363103 
+  Number of connections on node 20: 72572 
+  Number of synaptic contacts on node 20: 379868 
+  Number of connections on node 101: 70771 
+  Number of synaptic contacts on node 101: 373314 
+  Number of connections on node 6: 70260 
+  Number of synaptic contacts on node 6: 366300 
+  Number of connections on node 77: 69265 
+  Number of synaptic contacts on node 77: 362565 
+  Number of connections on node 44: 71339 
+  Number of synaptic contacts on node 44: 376114 
+  Number of connections on node 106: 68411 
+  Number of synaptic contacts on node 106: 356302 
+  Number of connections on node 88: 69677 
+  Number of synaptic contacts on node 88: 365767 
+  Number of connections on node 82: 70011 
+  Number of synaptic contacts on node 82: 366203 
+  Number of connections on node 120: 70275 
+  Number of synaptic contacts on node 120: 368821 
+  Number of connections on node 36: 71610 
+  Number of synaptic contacts on node 36: 374521 
+  Number of connections on node 72: 70998 
+  Number of synaptic contacts on node 72: 372122 
+  Number of connections on node 104: 70876 
+  Number of synaptic contacts on node 104: 371621 
+  Number of connections on node 54: 70773 
+  Number of synaptic contacts on node 54: 371355 
+  Number of connections on node 105: 69777 
+  Number of synaptic contacts on node 105: 365127 
+  Number of connections on node 98: 70416 
+  Number of synaptic contacts on node 98: 368939 
+  Number of connections on node 112: 70094 
+  Number of synaptic contacts on node 112: 365448 
+  Number of connections on node 90: 70629 
+  Number of synaptic contacts on node 90: 369209 
+  Number of connections on node 123: 70584 
+  Number of synaptic contacts on node 123: 371561 
+  Number of connections on node 38: 70451 
+  Number of synaptic contacts on node 38: 369063 
+  Number of connections on node 66: 70447 
+  Number of synaptic contacts on node 66: 365763 
+  Number of connections on node 122: 69790 
+  Number of synaptic contacts on node 122: 366281 
+  Number of connections on node 80: 69523 
+  Number of synaptic contacts on node 80: 365472 
+  Number of connections on node 114: 69619 
+  Number of synaptic contacts on node 114: 362389 
+  Number of connections on node 97: 71650 
+  Number of synaptic contacts on node 97: 374591 
+  Number of connections on node 75: 70126 
+  Number of synaptic contacts on node 75: 367086 
+  Number of connections on node 113: 69870 
+  Number of synaptic contacts on node 113: 366388 
+  Number of connections on node 107: 69928 
+  Number of synaptic contacts on node 107: 364615 
+  Number of connections on node 14: 70272 
+  Number of synaptic contacts on node 14: 369029 
+  Number of connections on node 22: 71478 
+  Number of synaptic contacts on node 22: 375935 
+  Number of connections on node 62: 70365 
+  Number of synaptic contacts on node 62: 367698 
+  Number of connections on node 65: 69541 
+  Number of synaptic contacts on node 65: 365224 
+  Number of connections on node 52: 71626 
+  Number of synaptic contacts on node 52: 375381 
+  Number of connections on node 117: 69765 
+  Number of synaptic contacts on node 117: 365470 
+  Number of connections on node 81: 70709 
+  Number of synaptic contacts on node 81: 371898 
+  Number of connections on node 125: 73075 
+  Number of synaptic contacts on node 125: 381855 
+  Number of connections on node 89: 70063 
+  Number of synaptic contacts on node 89: 367817 
+  Number of connections on node 0: 69109 
+  Number of synaptic contacts on node 0: 361227 
+  Number of connections on node 30: 67435 
+  Number of synaptic contacts on node 30: 355834 
+  Number of connections on node 73: 70905 
+  Number of synaptic contacts on node 73: 373967 
+  Number of connections on node 67: 70209 
+  Number of synaptic contacts on node 67: 368795 
+  Number of connections on node 63: 69887 
+  Number of synaptic contacts on node 63: 365226 
+  Number of connections on node 24: 71945 
+  Number of synaptic contacts on node 24: 380240 
+  Number of connections on node 91: 71881 
+  Number of synaptic contacts on node 91: 377148 
+  Number of connections on node 99: 72239 
+  Number of synaptic contacts on node 99: 377172 
+  Number of connections on node 42: 71317 
+  Number of synaptic contacts on node 42: 373878 
+  Number of connections on node 121: 71101 
+  Number of synaptic contacts on node 121: 371105 
+  Number of connections on node 115: 69522 
+  Number of synaptic contacts on node 115: 361453 
+  Number of connections on node 32: 68904 
+  Number of synaptic contacts on node 32: 361285 
+  Number of connections on node 34: 68835 
+  Number of synaptic contacts on node 34: 359742 
+  Number of connections on node 83: 70454 
+  Number of synaptic contacts on node 83: 369086 
+  Number of connections on node 40: 70342 
+  Number of synaptic contacts on node 40: 369476 
+  Number of connections on node 18: 69019 
+  Number of synaptic contacts on node 18: 361383 
+  Number of connections on node 8: 70587 
+  Number of synaptic contacts on node 8: 372179 
+  Number of connections on node 48: 70898 
+  Number of synaptic contacts on node 48: 371567 
+  Number of connections on node 2: 69897 
+  Number of synaptic contacts on node 2: 367263 
+  Number of connections on node 50: 70351 
+  Number of synaptic contacts on node 50: 367717 
+  Number of connections on node 10: 72193 
+  Number of synaptic contacts on node 10: 378078 
+  Number of connections on node 56: 69884 
+  Number of synaptic contacts on node 56: 363093 
+  Number of connections on node 26: 71034 
+  Number of synaptic contacts on node 26: 373765 
+  Number of connections on node 58: 70812 
+  Number of synaptic contacts on node 58: 371018 
+  Number of connections on node 16: 71151 
+  Number of synaptic contacts on node 16: 374727 
+  Done; cell connection time = 11722.06 s.
+Adding stims...
+  Number of stims on node 35: 2583 
+  Number of stims on node 12: 2603 
+  Number of stims on node 9: 2603 
+  Number of stims on node 60: 2583 
+  Number of stims on node 13: 2603 
+  Number of stims on node 69: 2583 
+  Number of stims on node 42: 2583 
+  Number of stims on node 89: 2582 
+  Number of stims on node 48: 2583 
+  Number of stims on node 43: 2583 
+  Number of stims on node 31: 2583 
+  Number of stims on node 71: 2583 
+  Number of stims on node 52: 2583 
+  Number of stims on node 39: 2583 
+  Number of stims on node 21: 2583 
+  Number of stims on node 77: 2582 
+  Number of stims on node 5: 2603 
+  Number of stims on node 127: 2593 
+  Number of stims on node 78: 2582 
+  Number of stims on node 97: 2603 
+  Number of stims on node 53: 2583 
+  Number of stims on node 111: 2603 
+  Number of stims on node 87: 2582 
+  Number of stims on node 124: 2593 
+  Number of stims on node 37: 2583 
+  Number of stims on node 109: 2603 
+  Number of stims on node 7: 2603 
+  Number of stims on node 125: 2593 
+  Number of stims on node 79: 2582 
+  Number of stims on node 84: 2582 
+  Number of stims on node 108: 2603 
+  Number of stims on node 116: 2593 
+  Number of stims on node 20: 2583 
+  Number of stims on node 61: 2583 
+  Number of stims on node 95: 2603 
+  Number of stims on node 119: 2593 
+  Number of stims on node 15: 2603 
+  Number of stims on node 36: 2583 
+  Number of stims on node 55: 2583 
+  Number of stims on node 50: 2583 
+  Number of stims on node 68: 2583 
+  Number of stims on node 103: 2603 
+  Number of stims on node 107: 2603 
+  Number of stims on node 112: 2603 
+  Number of stims on node 19: 2603 
+  Number of stims on node 23: 2583 
+  Number of stims on node 96: 2603 
+  Number of stims on node 92: 2582 
+  Number of stims on node 38: 2583 
+  Number of stims on node 4: 2603 
+  Number of stims on node 44: 2583 
+  Number of stims on node 32: 2583 
+  Number of stims on node 8: 2603 
+  Number of stims on node 63: 2583 
+  Number of stims on node 93: 2582 
+  Number of stims on node 10: 2603 
+  Number of stims on node 47: 2583 
+  Number of stims on node 99: 2603 
+  Number of stims on node 104: 2603 
+  Number of stims on node 100: 2603 
+  Number of stims on node 17: 2603 
+  Number of stims on node 33: 2583 
+  Number of stims on node 91: 2582 
+  Number of stims on node 59: 2583 
+  Number of stims on node 123: 2593 
+  Number of stims on node 45: 2583 
+  Number of stims on node 117: 2593 
+  Number of stims on node 65: 2583 
+  Number of stims on node 49: 2583 
+  Number of stims on node 28: 2583 
+  Number of stims on node 67: 2583 
+  Number of stims on node 83: 2582 
+  Number of stims on node 76: 2582 
+  Number of stims on node 90: 2582 
+  Number of stims on node 3: 2603 
+  Number of stims on node 29: 2583 
+  Number of stims on node 98: 2603 
+  Number of stims on node 101: 2603 
+  Number of stims on node 122: 2593 
+  Number of stims on node 114: 2593 
+  Number of stims on node 64: 2583 
+  Number of stims on node 85: 2582 
+  Number of stims on node 75: 2582 
+  Number of stims on node 46: 2583 
+  Number of stims on node 57: 2583 
+  Number of stims on node 82: 2582 
+  Number of stims on node 18: 2603 
+  Number of stims on node 115: 2593 
+  Number of stims on node 11: 2603 
+  Number of stims on node 27: 2583 
+  Number of stims on node 1: 2603 
+  Number of stims on node 105: 2603 
+  Number of stims on node 120: 2593 
+  Number of stims on node 56: 2583 
+  Number of stims on node 72: 2583 
+  Number of stims on node 0: 2603 
+  Number of stims on node 113: 2603 
+  Number of stims on node 51: 2583 
+  Number of stims on node 2: 2603 
+  Number of stims on node 74: 2582 
+  Number of stims on node 58: 2583 
+  Number of stims on node 66: 2583 
+  Number of stims on node 34: 2583 
+  Number of stims on node 16: 2603 
+  Number of stims on node 41: 2583 
+  Number of stims on node 80: 2582 
+  Number of stims on node 40: 2583 
+  Number of stims on node 81: 2582 
+  Number of stims on node 26: 2583 
+  Number of stims on node 106: 2603 
+  Number of stims on node 121: 2593 
+  Number of stims on node 25: 2583 
+  Number of stims on node 73: 2583 
+  Number of stims on node 14: 2603 
+  Number of stims on node 54: 2583 
+  Number of stims on node 30: 2583 
+  Number of stims on node 62: 2583 
+  Number of stims on node 102: 2603 
+  Number of stims on node 126: 2593 
+  Number of stims on node 110: 2603 
+  Number of stims on node 94: 2603 
+  Number of stims on node 24: 2583 
+  Number of stims on node 70: 2583 
+  Number of stims on node 88: 2582 
+  Number of stims on node 22: 2583 
+  Number of stims on node 86: 2582 
+  Number of stims on node 118: 2593 
+  Number of stims on node 6: 2603 
+  Done; cell stims creation time = 8.36 s.
+Recording 7 traces of 1 types on node 97
+Recording 5 traces of 1 types on node 48
+Recording 7 traces of 1 types on node 89
+Recording 8 traces of 1 types on node 12
+Recording 8 traces of 1 types on node 104
+Recording 8 traces of 1 types on node 111
+Recording 5 traces of 1 types on node 35
+Recording 7 traces of 1 types on node 9
+Recording 7 traces of 1 types on node 19
+Recording 13 traces of 1 types on node 60
+Recording 8 traces of 1 types on node 10
+Recording 6 traces of 1 types on node 78
+Recording 10 traces of 1 types on node 119
+Recording 9 traces of 1 types on node 99
+Recording 7 traces of 1 types on node 71
+Recording 8 traces of 1 types on node 11
+Recording 9 traces of 1 types on node 103
+Recording 10 traces of 1 types on node 82
+Recording 7 traces of 1 types on node 53
+Recording 5 traces of 1 types on node 20
+Recording 8 traces of 1 types on node 8
+Recording 3 traces of 1 types on node 37
+Recording 12 traces of 1 types on node 124
+Recording 8 traces of 1 types on node 77
+Recording 9 traces of 1 types on node 27
+Recording 5 traces of 1 types on node 15
+Recording 7 traces of 1 types on node 102
+Recording 5 traces of 1 types on node 73
+Recording 2 traces of 1 types on node 92
+Recording 7 traces of 1 types on node 84
+Recording 9 traces of 1 types on node 68
+Recording 6 traces of 1 types on node 72
+Recording 9 traces of 1 types on node 98
+Recording 9 traces of 1 types on node 75
+Recording 6 traces of 1 types on node 67
+Recording 5 traces of 1 types on node 65
+Recording 3 traces of 1 types on node 122
+Recording 12 traces of 1 types on node 91
+Recording 9 traces of 1 types on node 115
+Recording 10 traces of 1 types on node 52
+Recording 7 traces of 1 types on node 14
+Recording 5 traces of 1 types on node 33
+Recording 2 traces of 1 types on node 39
+Recording 13 traces of 1 types on node 109
+Recording 6 traces of 1 types on node 81
+Recording 7 traces of 1 types on node 96
+Recording 7 traces of 1 types on node 22
+Recording 9 traces of 1 types on node 101
+Recording 6 traces of 1 types on node 24
+Recording 10 traces of 1 types on node 121
+Recording 8 traces of 1 types on node 79
+Recording 7 traces of 1 types on node 110
+Recording 9 traces of 1 types on node 80
+Recording 4 traces of 1 types on node 13
+Recording 8 traces of 1 types on node 31
+Recording 13 traces of 1 types on node 107
+Recording 8 traces of 1 types on node 56
+Recording 8 traces of 1 types on node 85
+Recording 12 traces of 1 types on node 83
+Recording 3 traces of 1 types on node 43
+Recording 7 traces of 1 types on node 5
+Recording 4 traces of 1 types on node 41
+Recording 7 traces of 1 types on node 7
+Recording 5 traces of 1 types on node 95
+Recording 12 traces of 1 types on node 112
+Recording 8 traces of 1 types on node 87
+Recording 4 traces of 1 types on node 32
+Recording 7 traces of 1 types on node 3
+Recording 10 traces of 1 types on node 126
+Recording 6 traces of 1 types on node 36
+Recording 4 traces of 1 types on node 28
+Recording 6 traces of 1 types on node 49
+Recording 5 traces of 1 types on node 23
+Recording 7 traces of 1 types on node 127
+Recording 6 traces of 1 types on node 42
+Recording 9 traces of 1 types on node 26
+Recording 4 traces of 1 types on node 69
+Recording 4 traces of 1 types on node 47
+Recording 8 traces of 1 types on node 16
+Recording 9 traces of 1 types on node 116
+Recording 9 traces of 1 types on node 64
+Recording 6 traces of 1 types on node 30
+Recording 8 traces of 1 types on node 113
+Recording 2 traces of 1 types on node 34
+Recording 7 traces of 1 types on node 108
+Recording 8 traces of 1 types on node 62
+Recording 9 traces of 1 types on node 100
+Recording 8 traces of 1 types on node 74
+Recording 10 traces of 1 types on node 118
+Recording 7 traces of 1 types on node 125
+Recording 9 traces of 1 types on node 1
+Recording 9 traces of 1 types on node 54
+Recording 7 traces of 1 types on node 76
+Recording 6 traces of 1 types on node 90
+Recording 8 traces of 1 types on node 117
+Recording 5 traces of 1 types on node 58
+Recording 6 traces of 1 types on node 59
+Recording 9 traces of 1 types on node 93
+Recording 7 traces of 1 types on node 106
+Recording 12 traces of 1 types on node 0
+Recording 11 traces of 1 types on node 105
+Recording 5 traces of 1 types on node 17
+Recording 9 traces of 1 types on node 57
+Recording 7 traces of 1 types on node 94
+Recording 8 traces of 1 types on node 38
+Recording 5 traces of 1 types on node 70
+Recording 7 traces of 1 types on node 29
+Recording 10 traces of 1 types on node 86
+Recording 5 traces of 1 types on node 40
+Recording 7 traces of 1 types on node 18
+Recording 5 traces of 1 types on node 50
+Recording 8 traces of 1 types on node 45
+Recording 8 traces of 1 types on node 2
+Recording 12 traces of 1 types on node 114
+Recording 7 traces of 1 types on node 66
+Recording 5 traces of 1 types on node 21
+Recording 5 traces of 1 types on node 55
+Recording 7 traces of 1 types on node 63
+Recording 6 traces of 1 types on node 46
+Recording 5 traces of 1 types on node 120
+Recording 8 traces of 1 types on node 123
+Recording 9 traces of 1 types on node 61
+Recording 9 traces of 1 types on node 44
+Recording 10 traces of 1 types on node 51
+Recording 10 traces of 1 types on node 4
+Recording 4 traces of 1 types on node 25
+Recording 10 traces of 1 types on node 88
+Recording 8 traces of 1 types on node 6
+0.0s
+
+Running simulation using NEURON for 12000.0 ms...
+0.1s
+0.2s
+0.3s
+0.4s
+0.5s
+0.6s
+0.7s
+0.8s
+0.9s
+1.0s
+1.1s
+1.2s
+1.3s
+1.4s
+1.5s
+1.6s
+1.7s
+1.8s
+1.9s
+2.0s
+2.1s
+2.2s
+2.3s
+2.4s
+2.5s
+2.6s
+2.7s
+2.8s
+2.9s
+3.0s
+3.1s
+3.2s
+3.3s
+3.4s
+3.5s
+3.6s
+3.7s
+3.8s
+3.9s
+4.0s
+4.1s
+4.2s
+4.3s
+4.4s
+4.5s
+4.6s
+4.7s
+4.8s
+4.9s
+5.0s
+5.1s
+5.2s
+5.3s
+5.4s
+5.5s
+5.6s
+5.7s
+5.8s
+5.9s
+6.0s
+6.1s
+6.2s
+6.3s
+6.4s
+6.5s
+6.6s
+6.7s
+6.8s
+6.9s
+7.0s
+7.1s
+7.2s
+7.3s
+7.4s
+7.5s
+7.6s
+7.7s
+7.8s
+7.9s
+8.0s
+8.1s
+8.2s
+8.3s
+8.4s
+8.5s
+8.6s
+8.7s
+8.8s
+8.9s
+9.0s
+9.1s
+9.2s
+9.3s
+9.4s
+9.5s
+9.6s
+9.7s
+9.8s
+9.9s
+10.0s
+10.1s
+10.2s
+10.3s
+10.4s
+10.5s
+10.6s
+10.7s
+10.8s
+10.9s
+11.0s
+11.1s
+11.2s
+11.3s
+11.4s
+11.5s
+11.6s
+11.7s
+11.8s
+11.9s
+  Done; run time = 80798.80 s; real-time ratio: 0.00.
+
+Gathering data...
+  Done; gather time = 17.29 s.
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+
+Analyzing...
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()Preparing spike data...
+
+There was an exception in prepareSpikeData()
+
+Preparing spike data...
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+There was an exception in prepareSpikeData()
+
+Preparing spike data...
+
+There was an exception in prepareSpikeData()Preparing spike data...
+
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+Preparing spike data...
+
+There was an exception in prepareSpikeData()
+
+There was an exception in prepareSpikeHist()
+
+There was an exception in prepareSpikeHist()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in prepareSpikeHist()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in prepareSpikeHist()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+
+There was an exception in plotSpikeFreq()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in plotSpikeFreq()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+
+There was an exception in prepareSpikeHist()
+
+There was an exception in prepareSpikeHist()
+
+There was an exception in prepareSpikeHist()
+
+There was an exception in prepareSpikeHist()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in plotSpikeFreq()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+
+There was an exception in prepareSpikeHist()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in plotSpikeFreq()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+
+There was an exception in prepareSpikeHist()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+Plotting spike frequency...
+
+There was an exception in plotSpikeFreq()
+  Cells: 33738
+  Connections: 0 (0.00 per cell)
+  Spikes: 1039543 (2.57 Hz)
+  Simulated time: 12.0 s; 128 workers
+  Run time: 80798.80 s
+   L1_DAC_bNA : 0.000 Hz
+   L1_DAC_cNA : 0.002 Hz
+   L1_DLAC_cNA : 0.000 Hz
+   L1_HAC_bNA : 0.000 Hz
+   L1_HAC_cIR : 0.000 Hz
+   L1_HAC_cNA : 0.000 Hz
+   L1_NGC-DA_bNA : 0.000 Hz
+   L1_NGC-DA_cAC : 0.000 Hz
+   L1_NGC-DA_cNA : 0.000 Hz
+   L1_NGC-DA_cST : 0.000 Hz
+   L1_NGC-SA_cNA : 0.002 Hz
+   L1_SLAC_bNA : 0.000 Hz
+   L1_SLAC_cAC : 0.000 Hz
+   L1_SLAC_cNA : 0.004 Hz
+   L23_BP_bAC : 1.000 Hz
+   L23_BP_bIR : 0.729 Hz
+   L23_BP_bNA : 2.595 Hz
+   L23_BP_cAC : 2.190 Hz
+   L23_BP_cNA : 5.000 Hz
+   L23_BP_dST : 0.472 Hz
+   L23_BTC_bAC : 0.056 Hz
+   L23_BTC_bIR : 0.024 Hz
+   L23_BTC_bNA : 0.069 Hz
+   L23_BTC_cAC : 0.041 Hz
+   L23_BTC_cNA : 0.051 Hz
+   L23_ChC_cAC : 0.293 Hz
+   L23_ChC_cNA : 0.188 Hz
+   L23_ChC_dNA : 0.106 Hz
+   L23_DBC_bAC : 0.076 Hz
+   L23_DBC_bIR : 0.070 Hz
+   L23_DBC_bNA : 0.271 Hz
+   L23_DBC_cAC : 0.236 Hz
+   L23_LBC_bAC : 0.026 Hz
+   L23_LBC_bNA : 0.633 Hz
+   L23_LBC_cAC : 0.052 Hz
+   L23_LBC_cNA : 0.080 Hz
+   L23_LBC_cST : 0.197 Hz
+   L23_LBC_dNA : 0.415 Hz
+   L23_MC_bAC : 0.017 Hz
+   L23_MC_bNA : 0.017 Hz
+   L23_MC_cAC : 0.022 Hz
+   L23_MC_cNA : 0.028 Hz
+   L23_MC_dNA : 0.017 Hz
+   L23_NBC_bAC : 0.030 Hz
+   L23_NBC_bNA : 0.208 Hz
+   L23_NBC_cAC : 0.054 Hz
+   L23_NBC_cIR : 0.000 Hz
+   L23_NBC_cNA : 0.059 Hz
+   L23_NBC_dNA : 0.132 Hz
+   L23_NGC_bNA : 0.150 Hz
+   L23_NGC_cAC : 0.083 Hz
+   L23_NGC_cNA : 0.102 Hz
+   L23_NGC_cST : 0.067 Hz
+   L23_PC_cAD : 0.334 Hz
+   L23_SBC_bNA : 0.382 Hz
+   L23_SBC_cAC : 0.478 Hz
+   L23_SBC_dNA : 0.179 Hz
+   L4_BP_bAC : 8.333 Hz
+   L4_BP_bIR : 5.917 Hz
+   L4_BP_bNA : 5.417 Hz
+   L4_BP_cAC : 5.000 Hz
+   L4_BP_cNA : 9.750 Hz
+   L4_BP_dST : 0.083 Hz
+   L4_BTC_bAC : 1.292 Hz
+   L4_BTC_bIR : 0.083 Hz
+   L4_BTC_bST : 0.208 Hz
+   L4_BTC_cAC : 0.435 Hz
+   L4_BTC_cNA : 0.139 Hz
+   L4_BTC_dNA : 0.083 Hz
+   L4_ChC_cAC : 7.250 Hz
+   L4_ChC_cNA : 3.889 Hz
+   L4_ChC_dNA : 0.458 Hz
+   L4_DBC_bAC : 3.292 Hz
+   L4_DBC_bIR : 0.077 Hz
+   L4_DBC_bNA : 0.229 Hz
+   L4_DBC_bST : 0.062 Hz
+   L4_DBC_cAC : 0.208 Hz
+   L4_DBC_cIR : 0.071 Hz
+   L4_DBC_cNA : 0.229 Hz
+   L4_LBC_cAC : 3.197 Hz
+   L4_LBC_cNA : 2.613 Hz
+   L4_LBC_cST : 1.723 Hz
+   L4_LBC_dNA : 4.659 Hz
+   L4_LBC_dST : 1.343 Hz
+   L4_MC_bAC : 0.008 Hz
+   L4_MC_bNA : 0.021 Hz
+   L4_MC_cAC : 0.030 Hz
+   L4_MC_cNA : 0.074 Hz
+   L4_MC_dNA : 0.000 Hz
+   L4_NBC_cAC : 2.983 Hz
+   L4_NBC_cIR : 0.567 Hz
+   L4_NBC_cNA : 2.604 Hz
+   L4_NBC_dNA : 1.745 Hz
+   L4_NGC_bNA : 0.500 Hz
+   L4_NGC_cAC : 0.667 Hz
+   L4_NGC_cNA : 0.556 Hz
+   L4_NGC_cST : 0.083 Hz
+   L4_PC_cAD : 1.490 Hz
+   L4_SBC_bNA : 5.893 Hz
+   L4_SBC_cAC : 5.826 Hz
+   L4_SBC_dNA : 4.975 Hz
+   L4_SP_cAD : 2.842 Hz
+   L4_SS_cAD : 3.158 Hz
+   L5_BP_bAC : 2.611 Hz
+   L5_BP_bIR : 0.167 Hz
+   L5_BP_bNA : 8.843 Hz
+   L5_BP_cAC : 10.435 Hz
+   L5_BP_cNA : 12.817 Hz
+   L5_BP_dST : 0.139 Hz
+   L5_BTC_bAC : 4.981 Hz
+   L5_BTC_cAC : 1.540 Hz
+   L5_BTC_cNA : 1.340 Hz
+   L5_ChC_cAC : 15.512 Hz
+   L5_ChC_cNA : 20.250 Hz
+   L5_ChC_dNA : 6.617 Hz
+   L5_DBC_bAC : 2.944 Hz
+   L5_DBC_bIR : 0.083 Hz
+   L5_DBC_bNA : 0.602 Hz
+   L5_DBC_bST : 0.148 Hz
+   L5_DBC_cAC : 1.454 Hz
+   L5_DBC_cIR : 0.152 Hz
+   L5_DBC_cNA : 1.157 Hz
+   L5_LBC_bAC : 5.729 Hz
+   L5_LBC_cAC : 10.787 Hz
+   L5_LBC_cIR : 1.487 Hz
+   L5_LBC_cNA : 18.930 Hz
+   L5_LBC_cST : 11.714 Hz
+   L5_LBC_dNA : 19.347 Hz
+   L5_LBC_dST : 9.298 Hz
+   L5_MC_bAC : 0.353 Hz
+   L5_MC_bIR : 0.076 Hz
+   L5_MC_bST : 0.042 Hz
+   L5_MC_cAC : 0.741 Hz
+   L5_MC_cNA : 0.349 Hz
+   L5_MC_cST : 0.062 Hz
+   L5_MC_dNA : 0.078 Hz
+   L5_NBC_bAC : 4.256 Hz
+   L5_NBC_bIR : 0.810 Hz
+   L5_NBC_bST : 4.108 Hz
+   L5_NBC_cAC : 13.315 Hz
+   L5_NBC_cIR : 4.298 Hz
+   L5_NBC_cNA : 18.985 Hz
+   L5_NBC_cST : 6.894 Hz
+   L5_NBC_dST : 7.987 Hz
+   L5_NGC_bNA : 6.500 Hz
+   L5_NGC_cAC : 9.667 Hz
+   L5_NGC_cNA : 13.033 Hz
+   L5_NGC_cST : 0.250 Hz
+   L5_SBC_bNA : 5.537 Hz
+   L5_SBC_cAC : 10.407 Hz
+   L5_SBC_dNA : 14.107 Hz
+   L5_STPC_cAD : 4.258 Hz
+   L5_TTPC1_cAD : 3.428 Hz
+   L5_TTPC2_cAD : 3.624 Hz
+   L5_UTPC_cAD : 5.998 Hz
+   L6_BPC_cAD : 1.959 Hz
+   L6_BP_bAC : 2.403 Hz
+   L6_BP_bIR : 0.083 Hz
+   L6_BP_bNA : 5.776 Hz
+   L6_BP_cAC : 6.487 Hz
+   L6_BP_cNA : 7.250 Hz
+   L6_BP_dST : 0.097 Hz
+   L6_BTC_bAC : 3.175 Hz
+   L6_BTC_cAC : 3.037 Hz
+   L6_BTC_cNA : 2.992 Hz
+   L6_ChC_cAC : 11.931 Hz
+   L6_ChC_cNA : 28.736 Hz
+   L6_ChC_dNA : 9.521 Hz
+   L6_DBC_bAC : 4.889 Hz
+   L6_DBC_bIR : 0.067 Hz
+   L6_DBC_bNA : 0.278 Hz
+   L6_DBC_bST : 0.056 Hz
+   L6_DBC_cAC : 6.611 Hz
+   L6_DBC_cIR : 0.208 Hz
+   L6_DBC_cNA : 0.278 Hz
+   L6_IPC_cAD : 2.643 Hz
+   L6_LBC_bAC : 4.449 Hz
+   L6_LBC_bIR : 0.978 Hz
+   L6_LBC_bNA : 22.430 Hz
+   L6_LBC_bST : 5.831 Hz
+   L6_LBC_cNA : 23.823 Hz
+   L6_LBC_cST : 6.407 Hz
+   L6_MC_bAC : 0.028 Hz
+   L6_MC_bIR : 0.006 Hz
+   L6_MC_bNA : 0.065 Hz
+   L6_MC_bST : 0.018 Hz
+   L6_MC_cAC : 0.076 Hz
+   L6_MC_cIR : 0.018 Hz
+   L6_MC_cNA : 0.071 Hz
+   L6_NBC_bAC : 4.226 Hz
+   L6_NBC_bIR : 0.988 Hz
+   L6_NBC_bST : 9.543 Hz
+   L6_NBC_cAC : 7.882 Hz
+   L6_NBC_cIR : 2.458 Hz
+   L6_NBC_cNA : 18.187 Hz
+   L6_NBC_cST : 10.406 Hz
+   L6_NBC_dST : 9.768 Hz
+   L6_NGC_bNA : 6.167 Hz
+   L6_NGC_cAC : 6.917 Hz
+   L6_NGC_cNA : 8.947 Hz
+   L6_NGC_cST : 0.167 Hz
+   L6_SBC_bNA : 13.316 Hz
+   L6_SBC_cAC : 15.257 Hz
+   L6_SBC_dNA : 9.768 Hz
+   L6_TPC_L1_cAD : 2.423 Hz
+   L6_TPC_L4_cAD : 3.200 Hz
+   L6_UTPC_cAD : 3.418 Hz
+   ss_RTN_m : 11.464 Hz
+   VPM_sTC : 2.859 Hz
+   VPM_TC : 2.769 Hz
+Saving output as ../data/v8_batch10/v8_batch10_0_0_data.pkl ... 
+Finished saving!
+  Done; saving time = 68.05 s.
+Plotting 2D representation of network cell locations and connections...
+Preparing spike data...
+Plotting raster...
+Plotting recorded cell traces ... cell
+  Done; plotting time = 232.15 s
+
+Total time = 93009.81 s
+Preparing spike data...
+Plotting spike frequency...

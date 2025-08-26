@@ -14,8 +14,13 @@ import numpy as np
 # ----------------------------------------------------------------------------------------------
 def custom(i):
     params = specs.ODict()
-
-    params[('seeds', 'conn')] = [4321+i]
+ 
+    if i >= 2 and i <= 6: # no conn variability for random perturbations
+        j = 0
+    else: # conn variability for periodic perturbations
+        j = i
+    
+    params[('seeds', 'conn')] = [4321+j]
     params[('spike_position_file')] = ['../data/spkTimes_v8_batch' + str(i) + '_6s.pkl']
    
     b = Batch(params=params, netParamsFile='netParams.py', cfgFile='cfg.py')
@@ -105,7 +110,7 @@ def setRunCfg(b, type='mpi_bulletin'):
 # ----------------------------------------------------------------------------------------------
 if __name__ == '__main__': 
 
-    for i in range(1,4):
+    for i in range(2,5):
 
         b = custom(i) #
 
