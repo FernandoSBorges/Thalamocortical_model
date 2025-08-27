@@ -720,8 +720,9 @@ if cfg.connect_ThVecStim_S1:
                 else:
                     netParams.connParams['thal_'+pre+'_'+post]['probability'] = probability_rule # FO (First Order)
 
-                if post in cfg.S1pops[16:]:
-                    netParams.connParams['thal_'+pre+'_'+post]['weight'] = 0.5 * 0.19
+                # ## v10 - decrease the TC -> L4-6 weight by 50%
+                # if post in cfg.S1pops[16:]:
+                #     netParams.connParams['thal_'+pre+'_'+post]['weight'] = 0.5 * 0.19
                 
 #------------------------------------------------------------------------------
 # Description

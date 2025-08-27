@@ -15,7 +15,7 @@ import numpy as np
 def custom(i):
     params = specs.ODict()
  
-    if i >= 2 and i <= 6: # no conn variability for random perturbations
+    if i <= 6: # no conn variability for random perturbations
         j = 0
     else: # conn variability for periodic perturbations
         j = i
@@ -110,7 +110,7 @@ def setRunCfg(b, type='mpi_bulletin'):
 # ----------------------------------------------------------------------------------------------
 if __name__ == '__main__': 
 
-    for i in range(2,5):
+    for i in range(1,5):
 
         b = custom(i) #
 
